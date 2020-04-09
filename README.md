@@ -1,5 +1,10 @@
 # Advanced Object Oriented Programming course
 
+## Run the code
+The main class is *edu.luc.comp473.App* and you can compile the code and run the main method.
+
+Or you can run the code by maven with **mvn clean compile exec:exec** command.  
+
 ## Project 3,4 - Design patterns
 
 We implemted the design of Document management system using
