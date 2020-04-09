@@ -21,6 +21,7 @@ We used Factory Method pattern to create concrete Document Loader. Document Load
 
 ### Bridge Pattern
 We used Bridge pattern to separate the logic (implementation) to load document from Document object.
+![Bridge pattern](diagrams/bridge.png)
 
 ### Observer pattern
 We used Observer pattern to notify the counter and/or email notifier that a document is rendered.
