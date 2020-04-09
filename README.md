@@ -25,6 +25,7 @@ We used Bridge pattern to separate the logic (implementation) to load document f
 
 ### Observer pattern
 We used Observer pattern to notify the counter and/or email notifier that a document is rendered.
+![Observer pattern](diagrams/observer.png)
 
 ### Visitor pattern
 We used Visitor pattern to make it easier to add more Document Renderer further. 
