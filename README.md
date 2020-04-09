@@ -17,6 +17,8 @@ We implemted the design of Document management system using
 ### Factory Method
 We used Factory Method pattern to create concrete Document Loader. Document Loader is an object that load document from file system or cload storage.
 
+![Factory Method](diagrams/factorymethod.png)
+
 ### Bridge Pattern
 We used Bridge pattern to separate the logic (implementation) to load document from Document object.
 
