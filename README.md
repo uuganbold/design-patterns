@@ -29,6 +29,8 @@ We used Observer pattern to notify the counter and/or email notifier that a docu
 
 ### Visitor pattern
 We used Visitor pattern to make it easier to add more Document Renderer further. 
+![Visitor pattern](diagrams/visitor.png)
 
 ### Decorator pattern
 We used Decorator pattern to make more complex renderer.
+![Decorator pattern](diagrams/decorator.png)
