@@ -15,7 +15,7 @@ We implemted the design of Document management system using
 5. Decorator
 
 ### Factory Method
-We used Factory Method pattern to create concrete Document Loader. Document Loader is an object that load document from file system or cload storage.
+We used Factory Method pattern to create concrete Document Loader. Document Loader is an object that load document from file system or cloud storage.
 
 ![Factory Method](diagrams/factorymethod.png)
 
