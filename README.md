@@ -5,6 +5,8 @@ The main class is *edu.luc.comp473.App* and you can compile the code and run the
 
 Or you can run the code by maven with **mvn clean compile exec:exec** command.  
 
+To run the test code, the maven **mvn test** command is used.
+
 ## Project 3,4 - Design patterns
 
 We implemted the design of Document management system using
