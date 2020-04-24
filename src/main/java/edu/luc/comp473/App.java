@@ -35,6 +35,7 @@ public final class App {
         System.out.println("4. Visitor");
         System.out.println("5. Decorator");
         System.out.print("---------------------------------\n\n");
+        System.out.println("Here are some tests:\n");
 
         final String documentUrl1="file:///home/user/Document/wordfile.docx";
         final String documentUrl2="https://drive.google.com/file/d/1vOJHZmV1FDZQSqcasdfAx53/view?usp=sharing";
