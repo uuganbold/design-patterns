@@ -54,6 +54,11 @@ public abstract class Document implements Observable{
         }
     }
 
+    @Override
+    public int countObservers(){
+        return this.observers.size();
+    }
+
      
     public void load(){
         System.out.println("Usage of Bridge Pattern: Loading document using DocumentLoader which is implementation logic");
